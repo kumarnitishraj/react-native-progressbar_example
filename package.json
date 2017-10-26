@@ -1,0 +1,22 @@
+{
+  "name": "react-native-progressbar_example",
+  "version": "0.0.1",
+  "description": "A sample Example for react native progressbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarnitishraj/react-native-progressbar_example.git"
+  },
+  "keywords": [
+    "LodingProgressbar"
+  ],
+  "author": "“Nitish <“nitish.kr628@gmail.com”> (“https://github.com/kumarnitishraj”)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumarnitishraj/react-native-progressbar_example/issues"
+  },
+  "homepage": "https://github.com/kumarnitishraj/react-native-progressbar_example#readme"
+}
